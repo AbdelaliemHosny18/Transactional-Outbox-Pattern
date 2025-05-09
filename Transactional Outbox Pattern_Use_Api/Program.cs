@@ -53,6 +53,7 @@ builder.Services.AddQuartzHostedService(options =>
 
 
 builder.Services.Configure<MailSettings>(builder.Configuration.GetSection(nameof(MailSettings)));
+builder.Services.Configure<Mailtrap>(builder.Configuration.GetSection(nameof(Mailtrap)));
 
 
 

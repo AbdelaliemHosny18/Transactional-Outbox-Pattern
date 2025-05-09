@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>Transactional_Outbox_Pattern_Use_Api</RootNamespace>
+    <UserSecretsId>82b0835a-c96e-49c1-954e-1ae859e15960</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
